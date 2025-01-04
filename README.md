@@ -1,3 +1,10 @@
+## Welcome!
+<div align="center">
+  <a href="https://github.com/oaugustopro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oaugustopro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaugustopro&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 - I’m @oaugustopro
 - Interested in cyber security and data science
 - Currently (and forever) learning emacs
